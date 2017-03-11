@@ -1,0 +1,15 @@
+{
+  "name": "http2server",
+  "version": "1.0.0",
+  "description": "An HTTP2 Sample Server in Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hadi Hariri",
+  "license": "MIT",
+  "dependencies": {
+    "spdy": "^3.1.0"
+  }
+}
